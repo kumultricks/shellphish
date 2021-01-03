@@ -27,9 +27,25 @@ Usage of Shellphish for attacking targets without prior mutual consent is illega
 
 ![shellp](https://user-images.githubusercontent.com/34893261/43082609-d6273f58-8e6a-11e8-97f3-df56e03ad83d.png)
 
-### Usage:
+### Installation:
 ```
 git clone https://github.com/kumultricks/shellphish
+```
+### Usage:
+cd
+ls
 cd shellphish
+ls
+cd shellphish-master
+ls
+cd shellphish-master
+ls
 bash shellphish.sh
+```
+
+### After That:
+Select Option 2
+```
+### NOTE:
+ALWAYS TURN ON YOUR HOTSPOT
 ```

@@ -32,6 +32,7 @@ Usage of Shellphish for attacking targets without prior mutual consent is illega
 git clone https://github.com/kumultricks/shellphish
 ```
 ### Usage:
+```
 cd
 ls
 cd shellphish
@@ -41,7 +42,7 @@ ls
 cd shellphish-master
 ls
 bash shellphish.sh
-
+```
 ```
 
 
@@ -52,5 +53,6 @@ bash shellphish.sh
 
 ```
  ### NOTE:
+ ```
 ALWAYS TURN ON YOUR HOTSPOT
 ```

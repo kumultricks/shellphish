@@ -42,10 +42,13 @@ cd shellphish-master
 ls
 bash shellphish.sh
 ```
-
-### After That:
-Select Option 2
 ```
-### NOTE:
+
+### After That
+Select Option 2 For Facebook
+
+All other site NOT WORKING yet. 
+
+ ### NOTE:
 ALWAYS TURN ON YOUR HOTSPOT
 ```
